@@ -1,4 +1,4 @@
-const array = ["london", "tokyo", "kampla"];
+const array = ["java", "python", "ruby"];
 
 const code = array[Symbol.iterator]();
 
