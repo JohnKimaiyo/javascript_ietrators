@@ -1,4 +1,4 @@
-const array = ['ruby', 'python', 'java'];
+const array = ['london', 'tokyo', 'kampala'];
 
 const it = array[Symbol.iterator]();
 
